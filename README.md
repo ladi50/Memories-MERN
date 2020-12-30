@@ -4,6 +4,6 @@ Explore people's memories and upload your own!
 
 This app is mostly frontend - no authorization or authentication added.
 
-CHECK IT ON HERE: https://lucid-torvalds-adb8cc.netlify.app/
+CHECK IT ON HERE: https://memories-mern-app-project.netlify.app/
 
 Have fun! :)
